@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Gabriel 👋
 
-<!--
-**Gabigo401/Gabigo401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na FEI  
+Procurando minha primeira oportunidade de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+Gosto de programar e tenho mais interesse em Java. Durante a faculdade, desenvolvi projetos usando diferentes linguagens e tecnologias, colocando em prática meus conhecimentos de programação e banco de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que já utilizei
+
+- Java
+- C
+- JavaScript
+- React Native
+- PostgreSQL
+- Firebase
+- Git e GitHub
+
+### 📂 Alguns projetos
+
+- **Projeto Java Final:** sistema de pedidos desenvolvido em Java com PostgreSQL.
+- **Aplicativo de loja:** projeto com React Native e Firebase.
+- **Projetos em C:** aplicações desenvolvidas durante a faculdade.
