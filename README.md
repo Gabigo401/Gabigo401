@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação na FEI  
 Procurando minha primeira oportunidade de estágio na área de tecnologia.
 
-Gosto de programar e tenho mais interesse em Java. Durante a faculdade, desenvolvi projetos usando diferentes linguagens e tecnologias, colocando em prática meus conhecimentos de programação e banco de dados.
+Gosto de programar, principalmente em Java. Nos projetos da faculdade, também tive contato com C, JavaScript, desenvolvimento mobile e bancos de dados.
 
 ### 🛠️ Tecnologias que já utilizei
 
