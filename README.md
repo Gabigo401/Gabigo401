@@ -20,3 +20,8 @@ Gosto de programar, principalmente em Java. Nos projetos da faculdade, também t
 - **Projeto Java Final:** sistema de pedidos desenvolvido em Java com PostgreSQL.
 - **Aplicativo de loja:** projeto com React Native e Firebase.
 - **Projetos em C:** aplicações desenvolvidas durante a faculdade.
+
+### Idiomas
+- **Português:** nativo
+- **Espanhol:** boa compreensão oral e conversação básica; escrita limitada
+- **Inglês:** básico
